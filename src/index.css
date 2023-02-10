@@ -5,30 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  min-height: 100%;
-  text-align: center;
-  background: url("/public/background.png");
-  background-position: 100%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  padding: 0 0 80px;
-  margin:auto;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
-
-.App {
-  min-height: 100%;
-  text-align: center;
-  background: url("/public/background.png");
-  background-position: 100%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  padding: 0 0 80px;
-  margin:auto;
 }
