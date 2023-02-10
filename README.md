@@ -1,13 +1,3 @@
-# Jobly
-
-Jobly is an online job board web app project complete with authentication and search functionality
-
-Jobly is a mobile first responsive single page React application that will be using a progressive enhancement approach for cross-browser compatibility (using flexbox when supported). The flexbox updates are a work in progress, but the navigation component updates are complete and can be viewed at this time.
-
-Once a user has registered and/or logged in, they gain access to the private routes only accessible by authenticating and they’re greeted with a personalized welcome message when on the home page.
-Users have the ability to browse all jobs and all companies, as well as search jobs by title and search companies by name.
-Users can also apply to jobs and edit information in their user profile.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
