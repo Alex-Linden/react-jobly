@@ -45,9 +45,10 @@ function LoginForm({ login }) {
       setErrorMessages(err);
     }
   }
+  //demo
 
   return (
-    <form className="LoginForm col-md-6 offset-md-3 col-lg-4 offset-lg-4" 
+    <form className="LoginForm col-md-6 offset-md-3 col-lg-4 offset-lg-4"
       onSubmit={handleSubmit}>
       <div className="mb-3">
         <input
