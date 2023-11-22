@@ -11,3 +11,5 @@ function App() {
 }
 
 export default App;
+
+// TODO: solve landing page image issue
